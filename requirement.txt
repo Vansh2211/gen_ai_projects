@@ -7,3 +7,5 @@ langchain
 pandas
 numpy
 python-dotenv
+langchain-groq
+langchain-openai
